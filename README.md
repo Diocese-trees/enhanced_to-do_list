@@ -25,7 +25,7 @@ To run the application, ensure that you have Python installed. This project is c
 
    ```bash
    git clone https://github.com/Diocese-trees/enhanced_to-do_list.git
-   cd enhanced-todolist
+   cd enhanced_to-do_list
    ```
 
 3. **Run the Application**:  
@@ -105,7 +105,7 @@ A to-do list application helps in organizing your tasks effectively. By breaking
 The ability to mark tasks as completed provides a sense of accomplishment, motivating you to maintain momentum.
 
 ### 3. **Flexibility**
-With this enhanced to-do list, tasks can be categorized, sorted, searched, and filtered based on your preferences. This flexibility allows the user to adjust the task list to personal workflows.
+With this enhanced to-do list, tasks can be categorized, sorted, searched, and filtered based on your preferences. This flexibility allows users to adjust the task list to personal workflows.
 
 ### 4. **Persistence and Backup**
 Tasks are stored in a JSON file, allowing them to persist between sessions. Additionally, you can create backups, ensuring that you never lose your progress.
@@ -118,7 +118,7 @@ While this application currently runs in the terminal, it can be extended by inc
 
 ### Steps for Future Implementation:
 
-1. **Install PyQt:**
+1. **Install PyQt**:
    Install PyQt using pip:
 
    ```bash
