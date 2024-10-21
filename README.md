@@ -24,7 +24,7 @@ To run the application, ensure that you have Python installed. This project is c
    You can download the project by cloning this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/enhanced-todolist.git
+   git clone https://github.com/Diocese-trees/enhanced_to-do_list.git
    cd enhanced-todolist
    ```
 
